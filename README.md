@@ -7,7 +7,8 @@
 
 
 <h2>Features<h2/>
-   <ul><li>Basic arithmetic operations: Addition, Subtraction, Multiplication, and Division.<li/>
-   <li>Clear button: Easily reset the input and start a new calculation.</li>
+   <ul>
+       <li>Basic arithmetic operations: Addition, Subtraction, Multiplication, and Division.<li/>
+        <li>Clear button: Easily reset the input and start a new calculation.</li>
    </ul>
 </body>
